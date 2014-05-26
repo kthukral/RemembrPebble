@@ -1,0 +1,17 @@
+{
+  "uuid": "e0b2a8bc-6ff3-4e4f-9402-e131ee6ab1c6",
+  "shortName": "RemembrWatchApp",
+  "longName": "RemembrWatchApp",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
